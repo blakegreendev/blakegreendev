@@ -15,6 +15,8 @@
 📺 [youtube][youtube] **|** 
 👔 [linkedin][linkedin]
 
+[<img src="https://images.youracclaim.com/size/680x680/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png">](https://www.youracclaim.com/badges/d6bd0271-211d-4115-b2d1-b648f3e946f1/public_url) **|**
+[<img src="https://images.youracclaim.com/size/680x680/images/ee741c0c-3d57-48e0-82e0-699a2170aa50/AWS-Security-Specialty-2020.png">](https://www.youracclaim.com/badges/f7e47930-b686-4e8a-a7a7-8e93f6152bb1/public_url) **|**
 
 [website]: https://blakegreen.dev
 [twitter]: https://twitter.com/TSgt_Green
